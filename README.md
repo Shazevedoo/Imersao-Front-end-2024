@@ -14,5 +14,6 @@ CSS Grid, Media Queries e manipulação do DOM com JavaScript;
 
 Frameworks e Eficiência: Introdução ao React e Angular;
 
-#Projeto desenvolvido:
+# Projeto desenvolvido:
+
 Clone da página do Spotify
