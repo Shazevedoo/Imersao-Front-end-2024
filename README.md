@@ -17,3 +17,5 @@ Frameworks e Eficiência: Introdução ao React e Angular;
 # Projeto desenvolvido:
 
 Clone da página do Spotify
+
+![home-spotify] (https://github.com/Shazevedoo/Imersao-Front-end-2024/blob/main/home-spotify.png)
