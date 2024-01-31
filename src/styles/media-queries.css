@@ -1,31 +1,29 @@
-@media screen and (max-width:1015px) { 
-  .disclaimer-button{
-      padding: 6px 20px;
-      color: #000;
-      font-weight: bold;
-      font-size: 14px;
-      background-color: #fff;
-      border-radius: 40px;
-      cursor: pointer;    
-  }
+@media screen and (min-width: 1016px) and (max-width: 1140px) { 
 
-  .playlist-container{
-      padding-top: 8px;
-  }
+  .offer__list-item { 
+    grid-template-columns: 1fr 1fr 1fr 1fr; } 
 
-  .options-list-items {
-      grid-template-columns: 1fr 1fr;
+  .header_search { 
+  /* display: none !important; */ 
+  width: auto !important; 
+  display: none; 
   } 
-  
-  .header-navigation{
-      margin: 10px 2px 10px 2px;
+  @media screen and (max-width: 375px) { 
+  .playlist { 
+  display: none; 
+  } 
+  .playlist-container { 
+  width: 100%; /* Ocupa toda a largura disponível */ 
+  height: auto; /* Altura automática, ajusta conforme o conteúdo */ 
+  } 
+  .sidebar { 
+  width: 342px; 
+  } 
+  } 
+  } 
+  .offer__list-item { 
+  grid-template-columns: 1fr 1fr; 
+  .offer__scroll-container { 
+  overflow-y: visible; 
   }
-
-  .navigation-arrow-left{
-      margin-right: 0.5rem;    
   }
-
-  .navigation-search{
-      width: 340px;
-  }
-}
