@@ -33,12 +33,12 @@
   }
 
   .playlist-container {
-    width: 80%; /* Ocupa toda a largura disponível */
+    width: 100%; /* Ocupa toda a largura disponível */
     height: auto; /* Altura automática, ajusta conforme o conteúdo */
   }
 
   .sidebar {
-    width: 342px;
+    width: 100px;
   }
 
   .offer__list-item {
