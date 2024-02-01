@@ -12,7 +12,7 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 425px) {
     .playlist {
         display: none;
     }
@@ -23,12 +23,12 @@
     }
 
     .sidebar {
-        width: 150px;
+        width: 200px;
     }
 
     .offer__list-item {
         justify-content: center;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         padding: 70px 20px;
 
     }
