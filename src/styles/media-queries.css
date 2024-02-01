@@ -29,7 +29,7 @@
     .offer__list-item {
         grid-template-columns: 1fr 1fr;
         padding: 80px 20px;
-        margin: 15px;
+
     }
 
     .offer__scroll-container {
