@@ -23,7 +23,7 @@
     }
 
     .sidebar {
-        width: 342px;
+        max-width: 80px;
     }
 
     .offer__list-item {
