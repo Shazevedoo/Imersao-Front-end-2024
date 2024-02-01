@@ -1,4 +1,4 @@
-@media screen and (max-width: 1015px) {
+@media screen and (max-width: 1024px) {
     .header__search {
         width: auto !important;
         display: none;
@@ -12,7 +12,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 425px) {
     .playlist {
         display: none;
     }
