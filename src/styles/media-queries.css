@@ -27,6 +27,7 @@
     }
 
     .offer__list-item {
+        justify-content: center;
         grid-template-columns: 1fr 1fr;
         padding: 80px 20px;
 
