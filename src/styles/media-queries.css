@@ -18,7 +18,7 @@
     }
 
     .playlist-container {
-      width: 70%; /* Ocupa toda a largura disponível */
+      width: 50%; /* Ocupa toda a largura disponível */
       height: auto; /* Altura automática, ajusta conforme o conteúdo */
     }
 
