@@ -18,7 +18,7 @@
     }
 
     .playlist-container {
-      width: 50%; /* Ocupa toda a largura disponível */
+      width: 100%; /* Ocupa toda a largura disponível */
       height: auto; /* Altura automática, ajusta conforme o conteúdo */
     }
 
@@ -28,8 +28,8 @@
 
     .offer__list-item {
         justify-content: center;
-        grid-template-columns: 1fr;
-        padding: 70px 20px;
+        grid-template-columns: 1fr 1fr;
+        padding: 60px 30px;
 
     }
 
