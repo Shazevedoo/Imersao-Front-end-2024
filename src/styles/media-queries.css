@@ -5,6 +5,9 @@
 }
 
 @media screen and (min-width: 450px) {
+     .offer__list-item{
+        grid-template-columns: 1fr 1fr;
+    }
     .header__search {
         width: 216px;
     }
