@@ -6,11 +6,10 @@
 
 @media only screen and (max-width: 600px) { 
     .sidebar{
-        flex-wrap: nowrap
+        flex-wrap: nowrap;
         height: 30vh;
         margin: 0 auto;
         width: 79%;
-        height: fit-content;
         flex-direction: column;
         position: initial;
     }
