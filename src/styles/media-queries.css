@@ -17,6 +17,7 @@
     }
     .main-container {
         display: grid;
+        grid-template-columns: 1fr;
         flex-direction: column;
         margin: 0px auto;
         height: fit-content;
