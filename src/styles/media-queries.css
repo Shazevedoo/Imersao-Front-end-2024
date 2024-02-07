@@ -6,7 +6,7 @@
 
 @media only screen and (max-width: 600px) { 
     .sidebar{
-        display: flex;
+        display: grid;
         height: 30vh;
         margin: 0 auto;
         width: 79%;
