@@ -13,7 +13,7 @@
         width: 60%;
         height: fit-content;
         flex-direction: column;
-        position: initial;
+        position: center;
     }
     .main-container {
         display: flex;
