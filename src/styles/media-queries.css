@@ -9,7 +9,7 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         height: 30vh;
-        margin: 10px 10px 10px 10px;
+        margin: 0 auto;
         width: 79%;
         height: fit-content;
         flex-direction: column;
