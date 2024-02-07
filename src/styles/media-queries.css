@@ -9,8 +9,8 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         height: 30vh;
-        margin: 20px;
-        width: 50%;
+        margin: 30px;
+        width: 60%;
         height: fit-content;
         flex-direction: column;
         position: initial;
