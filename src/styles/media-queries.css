@@ -1,15 +1,16 @@
 @media screen and (max-width: 1024px) {
     .offer__list-item {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 }
 
-@media only screen and (max-width: 600px) { 
+@media screen (max-width: 400px) { 
     .sidebar{
-        flex-wrap: nowrap;
+        display: flex;
         height: 30vh;
         margin: 0 auto;
         width: 79%;
+        height: fit-content;
         flex-direction: column;
         position: initial;
     }
@@ -24,7 +25,6 @@
         justify-content: flex-start;
         gap: 20px;
         margin: 10px 0px;
-    
     }
     .header__search {
         width: 100%
