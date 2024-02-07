@@ -6,7 +6,7 @@
 
 @media only screen and (max-width: 600px) { 
     .sidebar{
-        display: grid;
+        display: flex;
         grid-template-columns: 1fr 1fr;
         height: 30vh;
         margin: 30px;
@@ -16,7 +16,7 @@
         position: initial;
     }
     .main-container {
-        display: grid;
+        display: flex;
         grid-template-columns: 1fr;
         flex-direction: column;
         margin: 0px auto;
