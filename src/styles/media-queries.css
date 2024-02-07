@@ -6,13 +6,13 @@
 
 @media only screen and (max-width: 600px) { 
     .sidebar{
-        display: grid;
+        display: flex;
         height: 30vh;
         margin: 0 auto;
         width: 79%;
         height: fit-content;
         flex-direction: column;
-        position: center;
+        position: inicial;
     }
     .main-container {
         display: flex;
