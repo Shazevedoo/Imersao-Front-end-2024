@@ -6,8 +6,8 @@
 
 @media only screen and (max-width: 600px) { 
     .sidebar{
-        display: flex;
-        grid-template-columns: 1fr 1fr;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
         height: 30vh;
         margin: 30px;
         width: 79%;
