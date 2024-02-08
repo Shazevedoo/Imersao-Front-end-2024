@@ -31,8 +31,7 @@
     }
     .playlist-container {
         height: 90vh;
-        margin: 10px 0px;
-        padding-botton: 2vh;
+        margin-botton:10px;
     }
     .offer__list-item {
         grid-template-columns: 1fr;
