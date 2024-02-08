@@ -37,7 +37,7 @@
         grid-template-columns: 1fr;
     }
     .offer_scroll-container{
-        max-height: 50vh;
+        max-height: 100vh;
     }
     .disclaimer-premium {
         flex-direction: column;
