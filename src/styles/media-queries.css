@@ -31,10 +31,10 @@
     }
     .playlist-container {
         height: 90vh;
-        margin-botton:10px;
+        margin:10px 0px;
     }
     .offer__list-item {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
     }
     .offer_scroll-container{
         max-height: 50vh;
