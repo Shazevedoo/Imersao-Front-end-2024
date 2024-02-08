@@ -30,8 +30,8 @@
         width: 100%
     }
     .playlist-container {
-        height: 90vh;
-        margin: 10px 0px;
+        height: 100vh;
+        margin: 10px;
     }
     .offer__list-item {
         grid-template-columns: 1fr;
